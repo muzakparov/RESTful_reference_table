@@ -1,0 +1,1 @@
+This is a reference table for 7 RESTful routes.
